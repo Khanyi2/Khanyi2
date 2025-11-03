@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi there 👋, I'm Khanyisile!
 
-<!--
-**Khanyi2/Khanyi2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Final-year software engineering student at WeThinkCode  
+💡 Passionate about building creative and impactful software  
+🚀 Currently learning C# and .NET development  
+🌱 Exploring Automated Testing, automation tools and frontend web development.  
+🎯 Goal: To grow as a software engineer and collaborate on open-source projects  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack
+- **Languages:** Python, Java, C#, HTML, CSS, JavaScript, React 
+- **Frameworks/Tools:** .NET, Git, Docker  
+- **Learning:** QA testing, CI/CD, testing fundamentals, web development. 
+
+---
+
+### 📫 Connect with me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/www.linkedin.com/in/khanyisile-sefalane-8482a32aa)
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/Khanyi2)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:khanyisilesefalane@gmail.com)
+
+---
+
+✨ _“Code is like art — it’s meant to create, inspire, and solve problems.”_
