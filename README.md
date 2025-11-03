@@ -8,10 +8,26 @@
 
 ---
 
-### 🛠️ Tech Stack
-- **Languages:** Python, Java, C#, HTML, CSS, JavaScript, React 
-- **Frameworks/Tools:** .NET, Git, Docker  
-- **Learning:** QA testing, CI/CD, testing fundamentals, web development. 
+## 🛠️ Tech Stack
+
+**Languages:**  
+💻 Python · Java · C# · JavaScript · HTML · CSS  
+
+**Frameworks & Tools:**  
+⚙️ .NET · Git · Docker · VS Code · IntelliJ IDEA  
+
+**Currently Learning:**  
+🧠 QA Testing · CI/CD · Web Development  
+
+---
+
+## 📊 GitHub Stats
+
+![Khanyisile's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Khanyi2&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Khanyi2&layout=compact&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Khanyi2&theme=tokyonight&hide_border=true)
 
 ---
 
