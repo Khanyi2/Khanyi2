@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Khanyisile!
+# Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />, I'm Khanyisile!
 
 🎓 Final-year software engineering student at WeThinkCode  
 💡 Passionate about building creative and impactful software  
