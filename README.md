@@ -1,31 +1,27 @@
 # Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />, I'm Khanyisile!
 
-🎓 Final-year software engineering student at WeThinkCode  
-💡 Passionate about building creative and impactful software  
-🚀 Currently learning C# and .NET development  
-🌱 Exploring Automated Testing, automation tools and frontend web development.  
-🎯 Goal: To grow as a software engineer and collaborate on open-source projects  
-
----
-
-## 🛠️ Tech Stack
-
-**Languages:**  
-💻 Python · Java · C# · JavaScript · HTML · CSS  
-
-**Frameworks & Tools:**  
-⚙️ .NET · Git · Docker · VS Code · IntelliJ IDEA  
-
-**Currently Learning:**  
-🧠 QA Testing · CI/CD · Web Development  
-
----
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+```javascript
+const thai = {
+  pronouns: "she" | "her",
+  school: Final year student at WeThinkCode,
+  code: [HTML, CSS, Javascript, React, Python, Java, C#],
+  tools: [React, Node, .NET, Maven, Docker],
+  currently: learning C# and .NET development,
+  goal: To grow as a software engineer and collaborate on open-source projects 
+}
+```
 
 ## 📊 GitHub Stats
 
-![Khanyisile's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Khanyi2&show_icons=true&theme=tokyonight)
+<div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Khanyi2&layout=compact&theme=tokyonight)
+  <img src="https://github-readme-stats.vercel.app/api?username=Khanyi2&show_icons=true&theme=tokyonight" height="180" width="420"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khanyi2&layout=compact&theme=tokyonight" height="180" width="420"/>
+
+</div>
+
+
 
 
 
