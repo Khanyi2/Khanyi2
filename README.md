@@ -2,7 +2,7 @@
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 ```javascript
-const thai = {
+const khanyi = {
   pronouns: "she" | "her",
   school: Final year student at WeThinkCode,
   code: [HTML, CSS, Javascript, React, Python, Java, C#],
