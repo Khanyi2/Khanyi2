@@ -11,20 +11,6 @@ const khanyi = {
   goal: To grow as a software engineer and collaborate on open-source projects 
 }
 ```
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=Khanyi2&show_icons=true&theme=tokyonight" height="180" width="420"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khanyi2&layout=compact&theme=tokyonight" height="180" width="420"/>
-
-</div>
-
-
-
-
-
 ---
 
 ### 📫 Connect with me
