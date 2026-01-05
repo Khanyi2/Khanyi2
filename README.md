@@ -13,7 +13,7 @@ const khanyi = {
 ```
 ---
 
-## 📊 GitHub Stats
+### 📊 GitHub Stats
 
 <p align="center">
   <img width="390"
